@@ -1,1 +1,1 @@
-Este es un archivo .rb
+Este es un archivo stone.rb edit by bighero
