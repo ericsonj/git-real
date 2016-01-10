@@ -6,3 +6,7 @@ Hello this is my readme file for the first GIT example.
 Update this file.
 
 Update this file by ironman
+
+Update README.txt for rebase test function.
+
+
