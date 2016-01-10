@@ -7,6 +7,4 @@ Update this file.
 
 Update this file by ironman
 
-Update README.txt for rebase test function.
-
-
+Update this file for test rebase.
